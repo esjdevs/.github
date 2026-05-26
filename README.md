@@ -3,7 +3,7 @@
 > Transforming businesses through intelligent automation and precision-engineered software.
 
 [![Website](https://img.shields.io/badge/Website-esjdevs.io-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://esjdevs.io)
-[![Email](https://img.shields.io/badge/Contact_Us-Get_In_Touch-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@esjdevs.io)
+[![Email](https://img.shields.io/badge/Contact_Us-Get_In_Touch-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@esjdevs.io)
 
 ---
 
@@ -77,7 +77,7 @@ Discover → Design → Build → Automate → Scale
 
 Whether you need a custom software solution, AI-powered automation, or both — we're ready to build it.
 
-📧 **Email:** [hello@esjdevs.io](mailto:hello@esjdevs.io)
+📧 **Email:** [info@esjdevs.io](mailto:info@esjdevs.io)
 🌐 **Website:** [esjdevs.io](https://esjdevs.io)
 
 ---
